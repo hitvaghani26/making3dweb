@@ -201,13 +201,13 @@
   ],
   "images": [
     {
-      "uri": "https://github.com/hitvaghani26/making3dweb/blob/main/textures/Material.001_normal.png"
+      "uri": "https://github.com/hitvaghani26/making3dweb/blob/main/textures/Material.001_normal.png?raw=true"
     },
     {
-      "uri": "https://github.com/hitvaghani26/making3dweb/blob/main/textures/Material.002_metallicRoughness.png"
+      "uri": "https://github.com/hitvaghani26/making3dweb/blob/main/textures/Material.002_metallicRoughness.png?raw=true"
     },
     {
-      "uri": "https://github.com/hitvaghani26/making3dweb/blob/main/textures/Material.002_normal.png"
+      "uri": "https://github.com/hitvaghani26/making3dweb/blob/main/textures/Material.002_normal.png?raw=true"
     }
   ],
   "materials": [
